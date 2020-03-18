@@ -1,0 +1,5 @@
+# Or else pip install cannot find README.md on the setup.py under certain conditions.
+include README.md
+
+# This actually adds the data file.
+include python_sample_package_with_data/mydata.txt

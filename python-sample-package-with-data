@@ -1,0 +1,5 @@
+#!/usr/bin/env python3
+
+import python_sample_package_with_data
+
+print(python_sample_package_with_data.get_data(), end='')
