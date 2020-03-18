@@ -26,6 +26,7 @@ python3 -m pip install --user setuptools wheel twine
 # Every time you want to publish.
 python setup.py sdist bdist_wheel
 twine upload dist/*
+rm -rf build dist *.egg-info
 ```
 
 Bibliography:
