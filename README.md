@@ -2,6 +2,8 @@
 
 How to distribute a Python package with data.
 
+https://stackoverflow.com/questions/3596979/manifest-in-ignored-on-python-setup-py-install-no-data-files-installed/60735402#60735402
+
 Tested on Ubuntu 19.10, Python 3.7.5, wheel==0.32.3, setuptools==41.1.0, twine==3.1.1.
 
 How end users use the package from <https://pypi.org/project/python-sample-package-with-data/>:
@@ -36,5 +38,4 @@ Bibliography:
 - https://stackoverflow.com/questions/39104/finding-a-file-in-a-python-module-distribution
 - https://stackoverflow.com/questions/14211575/any-python-function-to-get-data-files-root-directory
 - https://stackoverflow.com/questions/14422340/manifest-in-package-data-and-data-files-clarification
-- https://stackoverflow.com/questions/3596979/manifest-in-ignored-on-python-setup-py-install-no-data-files-installed/3597263#3597263
 - https://stackoverflow.com/questions/11235820/setup-py-not-installing-data-files
