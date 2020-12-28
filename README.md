@@ -19,6 +19,8 @@ Expected output:
 hello data
 ```
 
+which are the contents of our test data file [python_sample_package_with_data/mydata.txt](python_sample_package_with_data/mydata.txt) that was distributed with `pip`.
+
 How maintainers publish it:
 
 ```
